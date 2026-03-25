@@ -1,0 +1,4 @@
+# Ejecuta el tracker de salmón cada día laborable (L-V) a las 9:00h (hora Madrid)
+# Para instalar: crontab -e  y pega esta línea (sin el #):
+CRON_TZ=Europe/Madrid
+0 9 * * 1-5 /root/salmon-tracker/run_tracker.sh >> /root/salmon-tracker/logs/cron.log 2>&1
