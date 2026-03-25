@@ -1,18 +1,10 @@
 # 🐟 Salmon Price Tracker
 
-![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
-![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
-
 Sistema automatizado de monitoreo de precios de salmón en supermercados españoles con notificaciones por email.
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
-
-Sistema automatizado de monitoreo de precios de salmón en supermercados españoles con notificaciones por email.
-Sistema automatizado de monitoreo de precios de salmón en supermercados españoles con notificaciones por email.
 
 ## 📋 Descripción
 
